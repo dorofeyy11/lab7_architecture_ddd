@@ -1,0 +1,1 @@
+# lab7_architecture_ddd
